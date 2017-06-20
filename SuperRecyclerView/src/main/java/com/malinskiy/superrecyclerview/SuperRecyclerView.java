@@ -548,8 +548,5 @@ public class SuperRecyclerView extends FrameLayout {
         GRID,
         STAGGERED_GRID
     }
-    
-   public void testMethod(){
-      Log.e("cww","哈哈");
-   }
+  
 }
