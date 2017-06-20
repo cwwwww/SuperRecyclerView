@@ -60,4 +60,7 @@ public class MainActivity extends Activity {
             }
         });
     }
+   public void testMethod(){
+      Log.e("cww","哈哈");
+   }
 }
